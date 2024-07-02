@@ -1,4 +1,4 @@
-# GROUP-3-Summer-2022-LEARN-CITY-
+# GROUP-3-Summer-LEARN-CITY-
 
 LearnCity
 Welcome to LearnCity, an engaging educational app designed to make learning fun and interactive! In LearnCity, players can complete quizzes on various subjects such as mathematics, geography, and more to progress through different levels.
