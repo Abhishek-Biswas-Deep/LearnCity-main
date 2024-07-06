@@ -1,10 +1,10 @@
 # GROUP-3-Summer-LEARN-CITY-
 
 LearnCity-
-Welcome to LearnCity, an engaging educational app designed to make learning fun and interactive! In LearnCity, players can complete quizzes on various subjects such as mathematics, geography, and more to progress through different levels.
+Welcome to LearnCity, an engaging educational app designed to make learning fun and interactive! In LearnCity, players can complete quizzes on various subjects such as mathematics, science, and more to progress through different levels.
 
 Features
-Multiple Subjects: Challenge yourself with quizzes in various subjects including Math, Geography, Science, and more.
+Multiple Subjects: Challenge yourself with quizzes in various subjects including Math, Science, and more.
 
 Progressive Levels: Advance through levels by successfully completing quizzes. Each level increases in difficulty to keep you engaged.
 
