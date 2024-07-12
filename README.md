@@ -1,4 +1,4 @@
-# GROUP-3-Summer-LEARN-CITY
+# Summer-LEARN-CITY
 
 Welcome to LearnCity, an engaging educational app designed to make learning fun and interactive! In LearnCity, players can complete quizzes on various subjects such as mathematics, science, and more to progress through different levels.
 
