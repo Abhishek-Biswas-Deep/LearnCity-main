@@ -12,3 +12,6 @@ User-Friendly Interface: Enjoy a clean and intuitive design that makes learning 
 Interactive Learning: Improve your knowledge with interactive quizzes that provide instant feedback.
 
 Educational Fun: Perfect for students and anyone looking to enhance their knowledge in a fun, game-like environment.
+
+## Acknowledgments
+A huge thank you to my team for their encouragement and understanding.
